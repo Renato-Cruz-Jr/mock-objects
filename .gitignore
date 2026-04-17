@@ -1,0 +1,23 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de IDE e Editores
+.vscode/
+.idea/
+
+# Arquivos de Cobertura e Teste
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arquivos de Build e Distribuição
+build/
+dist/
+*.egg-info/
